@@ -1,5 +1,7 @@
 # coffee-machine project
 
+## First personal project with opp
+
 * The machine lets you choose a drink.
 * It checks if it has enough resources to make the drink for you.
 * It then let you insert coins.
